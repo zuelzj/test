@@ -1,6 +1,7 @@
 table{
 border-spacing: 30px 10px;
 background-color: rgba(105, 74, 71, 0.5); 
+   color:cyan;
 }
 .tablestyle1{
    margin-left: 25%;
